@@ -5,5 +5,5 @@
     The implementation of the idea will work closely with polyclinics by having access at their actual webpage application and some doctors that we have close relations to. Polyclinic’s doctors will be the one to leave appointments for their patients depending on the hospital doctor’s timetable and also share the medical records of the patient with that doctor. 
 
 ![](VIEW/LOGOproject.png)
-![](VIEW/BCG.POLY.png)
+![](VIEW/LoginSetup.png)
 
